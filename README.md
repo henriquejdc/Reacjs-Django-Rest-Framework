@@ -5,7 +5,7 @@ This is a Notes application built for fun and learning with Django Rest Framewor
 ## GUEST_BOOK_API
 Django Rest Framework API to Notes
 
-## GUEST_BOOK_CLIET
+## GUEST_BOOK_CLIENT
 ReactJs to view notes
 
 ## TO RUN
